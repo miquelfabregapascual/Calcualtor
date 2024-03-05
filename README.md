@@ -3,7 +3,7 @@ This Android calculator app provides basic arithmetic operations including addit
 
 ## Screenshots
 - Addition
-![Screenshot 1](images/addition.png)
+![Screenshot 1](images/additon.png)
 - Subtraction
 ![Screenshot 2](images/subtraction.png)
 - Multiplication
@@ -14,6 +14,8 @@ This Android calculator app provides basic arithmetic operations including addit
 ![Screenshot 5](images/clear.png)
 - Decimal support for floating-point numbers
 ![Screenshot 6](images/decimal.png)
+
+
 
 
 ## Features
