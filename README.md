@@ -3,17 +3,17 @@ This Android calculator app provides basic arithmetic operations including addit
 
 ## Screenshots
 - Addition
-![Screenshot 1](images/additon.png)
+![Screenshot 1](Images/additon.png)
 - Subtraction
-![Screenshot 2](images/subtraction.png)
+![Screenshot 2](Images/subtraction.png)
 - Multiplication
-![Screenshot 3](images/multiplication.png)
+![Screenshot 3](Images/multiplication.png)
 - Division
-![Screenshot 4](images/division.png)
+![Screenshot 4](Images/division.png)
 - Clear button to reset the calculation
-![Screenshot 5](images/clear.png)
+![Screenshot 5](Images/clear.png)
 - Decimal support for floating-point numbers
-![Screenshot 6](images/decimal.png)
+![Screenshot 6](Images/decimal.png)
 
 
 
