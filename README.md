@@ -2,24 +2,29 @@
 This Android calculator app provides basic arithmetic operations including addition, subtraction, multiplication, and division. It offers a simple and user-friendly interface for performing calculations on Android devices.
 
 ## Screenshots
-
-
-
-## Features
-
 - Addition
 ![Screenshot 1](images/Addition.png)
 - Subtraction
 ![Screenshot 2](images/Subtraction.png)
 - Multiplication
-  ![Screenshot 3](images/Multiplication.png)
+![Screenshot 3](images/Multiplication.png)
 - Division
-![Screenshot 3](images/Division.png)
+![Screenshot 4](images/Division.png)
 - Clear button to reset the calculation
-![Screenshot 2](images/Clear.png)
+![Screenshot 5](images/Clear.png)
 - Decimal support for floating-point numbers
-![Screenshot 3](images/Decimal.png)
+![Screenshot 6](images/Decimal.png)
 
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear button to reset the calculation
+- Decimal support for floating-point numbers
+  
 ## How to Use
 
 1. Input numbers using the provided buttons.
