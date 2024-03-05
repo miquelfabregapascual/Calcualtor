@@ -48,7 +48,7 @@ This Android calculator app provides basic arithmetic operations including addit
 ## Installation
 
 You can install the app by either:
-- [Downloading the APK](calculator_app.apk) directly to your Android device and installing it.
+- [Downloading the APK](app-debug.apk) directly to your Android device and installing it.
 - Cloning the repository and opening it in Android Studio. Run the app on an Android device or emulator.
 
 ## Author
