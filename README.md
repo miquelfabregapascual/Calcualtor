@@ -4,27 +4,27 @@ This Android calculator app provides basic arithmetic operations including addit
 ## Screenshots
 - Addition
   
-<img src="Images/additon.png" alt="Addition" width="150"/>
+<img src="Images/additon.png" alt="Addition" width="50"/>
 
 - Subtraction
   
-<img src="Images/subtraction.png" alt="Subtraction" width="150"/>
+<img src="Images/subtraction.png" alt="Subtraction" width="50"/>
 
 - Multiplication
   
-<img src="Images/multiplication.png" alt="Multiplication" width="150"/>
+<img src="Images/multiplication.png" alt="Multiplication" width="50"/>
 
 - Division
   
-<img src="Images/division.png" alt="Division" width="150"/>
+<img src="Images/division.png" alt="Division" width="50"/>
 
 - Clear button to reset the calculation
   
-<img src="Images/clear.png" alt="Clear" width="150"/>
+<img src="Images/clear.png" alt="Clear" width="50"/>
 
 - Decimal support for floating-point numbers
   
-<img src="Images/decimal.png" alt="Decimal" width="150"/>
+<img src="Images/decimal.png" alt="Decimal" width="50"/>
 
 
 ## Features
